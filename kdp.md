@@ -21,7 +21,6 @@ Topics covered in this book will include:
 
 The ultimate goal of this book is to empower organizations to drive successful digital transformation and unlock growth opportunities. We hope that the insights and guidance provided in this book will help organizations to navigate the complexities of digital transformation and emerge stronger and more competitive in today's digital landscape.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
