@@ -1,5 +1,3 @@
-Chapter 8: Managing Change and Overcoming Resistance
-====================================================
 
 Managing change and overcoming resistance are critical components of driving a successful digital transformation. In this chapter, we will explore the importance of managing change and addressing resistance within the organization, as well as techniques for doing so effectively.
 

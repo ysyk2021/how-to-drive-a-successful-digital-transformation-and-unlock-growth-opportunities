@@ -1,5 +1,3 @@
-Chapter 10: Overcoming Obstacles to Driving Digital Transformation
-==================================================================
 
 While digital transformation offers numerous benefits for businesses, there are also common obstacles that can hinder progress. In this chapter, we will explore these obstacles and provide strategies for overcoming them.
 

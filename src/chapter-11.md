@@ -1,5 +1,3 @@
-Chapter 11: Implementation Strategies for Lasting Change
-========================================================
 
 Implementing lasting change is essential for driving successful digital transformation and unlocking growth opportunities. In this chapter, we will discuss strategies for creating a roadmap for implementation, tracking progress, and celebrating successes.
 

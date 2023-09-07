@@ -1,5 +1,3 @@
-Chapter 4: Building a Digital Culture
-=====================================
 
 Building a digital culture is essential for driving a successful digital transformation. In this chapter, we will explore the importance of building a digital culture and techniques for fostering a digital culture within the organization.
 

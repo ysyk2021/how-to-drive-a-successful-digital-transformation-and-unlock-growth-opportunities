@@ -1,5 +1,3 @@
-Chapter 7: Upskilling and Reskilling Employees
-==============================================
 
 Digital transformation requires a workforce that is equipped with the skills and knowledge to effectively leverage technology and drive innovation. In this chapter, we will discuss the importance of upskilling and reskilling employees in preparation for digital transformation, as well as strategies for providing training and development opportunities to employees.
 

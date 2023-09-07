@@ -1,5 +1,3 @@
-Chapter 3: Creating a Digital Strategy
-======================================
 
 Creating a digital strategy is the foundation for driving successful digital transformation. In this chapter, we will provide an overview of creating a digital strategy and strategies for creating a digital strategy that aligns with business goals.
 
