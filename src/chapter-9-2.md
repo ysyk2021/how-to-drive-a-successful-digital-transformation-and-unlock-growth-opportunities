@@ -1,5 +1,4 @@
-Chapter: Techniques for Incorporating Digital Transformation into Company Policies and Practices
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Digital transformation is not just about adopting new technologies; it also requires organizations to rethink their policies and practices to fully leverage the potential of digital innovation. In this chapter, we will explore techniques for incorporating digital transformation into company policies and practices, enabling organizations to drive successful transformations and unlock growth opportunities.
 

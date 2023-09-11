@@ -1,5 +1,4 @@
-Chapter: Tracking Progress and Celebrating Successes
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of tracking progress and celebrating successes throughout the digital transformation journey. By establishing effective monitoring mechanisms and recognizing achievements, organizations can ensure the successful implementation of their transformation initiatives and maintain motivation among employees.
 

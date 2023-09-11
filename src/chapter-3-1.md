@@ -1,5 +1,4 @@
-Chapter: Overview of Creating a Digital Strategy
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Digital transformation has become a strategic imperative for organizations seeking to remain competitive, enhance customer experiences, increase operational efficiency, and unlock new growth opportunities. The key to driving a successful digital transformation is developing a robust digital strategy that aligns with the organization's vision, mission, and goals.
 

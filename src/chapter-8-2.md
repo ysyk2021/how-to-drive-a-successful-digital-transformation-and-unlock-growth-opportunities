@@ -1,5 +1,4 @@
-Chapter: Techniques for Managing Change and Addressing Resistance within the Organization
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore effective techniques for managing change and addressing resistance within the organization during a digital transformation. By employing these techniques, organizations can navigate the challenges of change and ensure a smooth transition towards achieving their growth opportunities.
 

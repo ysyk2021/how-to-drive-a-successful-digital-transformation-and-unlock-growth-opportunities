@@ -1,5 +1,4 @@
-Chapter: Techniques for Fostering a Digital Culture within the Organization
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Fostering a digital culture is essential for driving a successful digital transformation and unlocking growth opportunities within an organization. In this chapter, we will explore techniques that leaders can employ to cultivate a digital culture that embraces technology, innovation, and continuous learning.
 

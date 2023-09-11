@@ -1,5 +1,4 @@
-Chapter: Strategies for Creating a Digital Strategy that Aligns with Business Goals
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creating a digital strategy that aligns with business goals is essential for driving a successful digital transformation and unlocking growth opportunities. In this chapter, we will explore strategies to develop a robust digital strategy that encompasses the organization's vision, objectives, and customer-centric approach.
 

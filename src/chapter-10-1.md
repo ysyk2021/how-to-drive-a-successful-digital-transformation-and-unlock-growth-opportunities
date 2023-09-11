@@ -1,5 +1,4 @@
-Chapter: Common Obstacles to Driving Digital Transformation
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Digital transformation is a complex and challenging journey that organizations undertake to stay competitive and unlock growth opportunities. However, there are several common obstacles that can hinder the progress and success of digital transformation initiatives. In this chapter, we will explore these obstacles and provide strategies for overcoming them.
 

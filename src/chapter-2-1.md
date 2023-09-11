@@ -1,5 +1,4 @@
-Chapter: Definition of Digital Transformation
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Digital transformation is a comprehensive and strategic process of utilizing digital technologies to fundamentally change and optimize various aspects of an organization's operations, processes, and business models. It involves leveraging digital technologies to drive innovation, enhance customer experiences, and create new growth opportunities.
 
